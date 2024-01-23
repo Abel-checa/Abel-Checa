@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi Guys!! 👋
+** Aqui va una imagen
+** despues un parrafo de descripcion
+** y un gif de despedida
 <!--
 **Abel-checa/Abel-Checa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
